@@ -3,7 +3,7 @@
 
 - 🌱 I have recently completed **Le Wagon's full-stack web devlopment bootcamp and am looking for new challenges and opportunities to grow my skills**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/anjagberg](troopl.com/anjagberg)
+- 👨‍💻 All of my projects are available at <a href="https://troopl.com/anjagberg" target="blank">troopl.com/anjagberg</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
